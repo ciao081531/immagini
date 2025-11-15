@@ -1,5 +1,5 @@
 # immagini
-## Fromattazione
+## Formattazione
 ### Materie
 | Codice    | Materia |
 | --------------- | --------------- |
@@ -9,6 +9,7 @@
 |4xxx|Filosofia|
 |5xxx|Italiano|
 |6xxx|Inglese|
+|7xxx|Arte|
 ### Anno
 |Codice|Anno|
 |------|----|
